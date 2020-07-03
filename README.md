@@ -31,7 +31,7 @@ Reference folder will keep all the copies of favorite public tableau workbook fo
 
 | Session | Topic | Favorites | Study Note|
 | ---- | ------ | --------| -------|
-| 2020 Week1| What is America’s most popular sport?|![Image of Favorites](MakeOverMonday/2020Week1/Reference/Bar Rank Chart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/Comb Rank Chart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/signomal Rank Chart.jpeg) |![Image of Study Note](MakeOverMonday/2020Week1/2020Week1StudyNote.png)|
+| 2020 Week1| What is America’s most popular sport?|![Image of Favorites](MakeOverMonday/2020Week1/Reference/BarRankChart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/CombRankChart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/SignomalRankChart.jpeg) |![Image of Study Note](MakeOverMonday/2020Week1/2020Week1StudyNote.png)|
 
 
 ### StudyNote
