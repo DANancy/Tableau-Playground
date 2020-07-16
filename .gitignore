@@ -6,3 +6,6 @@
 *.epub
 *.xmind
 *.twb
+*.mypy_cache/3.7
+*.xmind
+*.hyper

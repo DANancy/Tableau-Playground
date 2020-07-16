@@ -9,7 +9,7 @@ I passed my Tableau Specialist exam for the first attempt and enjoyed the journe
 #### Useful Resources: 
 * [Udemy Course](https://www.udemy.com/course/tableau-specialist-certification-prep/learn/)
 * [eLearning](https://elearning.tableau.com/)
-
+* [Tableau Public](https://public.tableau.com/en-us/s/)
 
 ### MakeOverMonday
 Makeover Monday is a weekly online-public data analysis and visualisation project. 
@@ -25,14 +25,17 @@ This folder keeps tracks of my exercises and related study notes.
 #### Weekly Favorites Study Ground
 In order to keep practicing and learning from wonderful visualisations made by other amazing participants, I have summarized the related learning materials. 
 
-The favorites visualizations are published on [MakeOverMonday Blog](https://www.makeovermonday.co.uk/blog/) each week. 
+All favorite designs are published on [MakeOverMonday Blog](https://www.makeovermonday.co.uk/blog/) each week. 
 
-Reference folder will keep all the copies of favorite public tableau workbook for reference. 
+Materials folder will keep all the copies of favorites published on the [Tableau Public](https://public.tableau.com/s/) for studying. 
 
-| Session | Topic | Favorites | Study Note|
-| ---- | ------ | --------| -------|
-| 2020 Week1| What is America’s most popular sport?|![Image of Favorites](MakeOverMonday/2020Week1/Reference/BarRankChart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/CombRankChart.jpeg) ![Image of Favorites](MakeOverMonday/2020Week1/Reference/SignomalRankChart.jpeg) |![Image of Study Note](MakeOverMonday/2020Week1/2020Week1StudyNote.png)|
+I also collect all the favorites to my Pinterest as [MakeOverMonday2020](https://pin.it/1d9Uxja) for inspiration.
 
+| Session | Topic |  Study Note|
+| ---- | ------ | --------| 
+| 2020 Week1| What is America’s most popular sport?|![Image of Study Note](MakeOverMonday/2020Week1/2020Week1StudyNote.png)|
+| 2020 Week2| Use of harmful pesticides in US agriculture|![Image of Study Note](MakeOverMonday/2020Week2/2020Week2StudyNote.png)|
+| 2020 Week27| Comparing common mental disorder by sex |![Image of Study Note](MakeOverMonday/2020Week27/2020Week27StudyNote.png)|
 
 ### StudyNote
 This folder contains the study notes when I read through the following fantastic books for data analysis and visualization. 
